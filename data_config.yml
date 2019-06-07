@@ -1,0 +1,18 @@
+{
+  tag: [
+    'popular',
+    'trending',
+    'instagood',
+    'like4like',
+    'likeforlike',
+    'instadaily',
+  ],
+  comments: [
+    'Great post!',
+    'Amazing post, please like me',
+    'Great! view my profile also',
+    'Like for like :)',
+    'Cool images when i see, please like me back',
+    'Please follow me back :)'
+  ]
+}
