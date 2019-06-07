@@ -37,10 +37,10 @@ Jika kalian deploy ke heroku dan kena checkpoint, silahkan buka instagram di sma
 lalu klik tombol "Ini adalah saya"
 
 # Screenshot
-### Example result when searching diseases
-![alt text](https://i.imgur.com/z2zdetC.png "Example result when searching diseases")
+### Contoh result ketika like postingan hastag
+![alt text](https://i.imgur.com/lrR7CzI.png "Contoh result ketika like postingan hastag")
 
-### Example result in database
-![alt text](https://i.imgur.com/p0jzBJq.png "Example result in database")
+### Contoh result ketika like postingan seseorang
+![alt text](https://i.imgur.com/f54msGP.png "Contoh result ketika like postingan seseorang")
 
 
