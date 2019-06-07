@@ -11,7 +11,7 @@ Kemudian ia akan mengumpulkan data usernamenya untuk dijelajahi dan ngelike lagi
 
 # Installation
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 # Configuration
