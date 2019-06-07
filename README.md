@@ -35,7 +35,7 @@ python3 Tasklikes.py --type cron --username yourusername --password yourpassword
 # Setting Hastag
 - Silahkan buka file data_config.yml dan tambahkan hastag sesuka kalian
 - Fungsi komentar menurut saya belum stabil
-'''
+```
 {
   tag: [
     'popular',
@@ -54,7 +54,7 @@ python3 Tasklikes.py --type cron --username yourusername --password yourpassword
     'Please follow me back :)'
   ]
 }
-'''
+```
 
 ## Note
 Jika kalian deploy ke heroku dan kena checkpoint, silahkan buka instagram di smartphone kalian
