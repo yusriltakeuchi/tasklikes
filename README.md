@@ -32,6 +32,30 @@ python3 Tasklikes.py --type cron --username yourusername --password yourpassword
 - onetime : Jika ingin mengeksekusi tools dengan sekali jalan
 - cron : Jika ingin menggunakan cron sebanyak 30 menit sekali
 
+# Setting Hastag
+- Silahkan buka file data_config.yml dan tambahkan hastag sesuka kalian
+- Fungsi komentar menurut saya belum stabil
+'''
+{
+  tag: [
+    'popular',
+    'trending',
+    'instagood',
+    'like4like',
+    'likeforlike',
+    'instadaily',
+  ],
+  comments: [
+    'Great post!',
+    'Amazing post, please like me',
+    'Great! view my profile also',
+    'Like for like :)',
+    'Cool images when i see, please like me back',
+    'Please follow me back :)'
+  ]
+}
+'''
+
 ## Note
 Jika kalian deploy ke heroku dan kena checkpoint, silahkan buka instagram di smartphone kalian
 lalu klik tombol "Ini adalah saya"
